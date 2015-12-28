@@ -1,0 +1,28 @@
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\bin\Release\BedmintonApp.exe.config
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\bin\Release\BedmintonApp.exe
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\bin\Release\BedmintonApp.pdb
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\MainWindow.g.cs
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\App.g.cs
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp_MarkupCompile.cache
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp_MarkupCompile.lref
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\MainWindow.baml
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp.g.resources
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\WpfProject.Properties.Resources.resources
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\WpfProject.csproj.GenerateResource.Cache
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp.exe
+C:\Users\AlexanderPC\Documents\Visual Studio 2015\Projects\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp.pdb
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\bin\Release\BedmintonApp.exe.config
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp.exe
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp.pdb
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\bin\Release\BedmintonApp.exe
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\bin\Release\BedmintonApp.pdb
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\App.g.cs
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp_MarkupCompile.cache
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp_MarkupCompile.lref
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\BedmintonApp.g.resources
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\WpfProject.Properties.Resources.resources
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\WpfProject.csproj.GenerateResource.Cache
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\MainWindow2.g.cs
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\Window1.g.cs
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\MainWindow2.baml
+E:\MyStuff\JuliaPlayingBedminton\WpfProject\obj\Release\Window1.baml
